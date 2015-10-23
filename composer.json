@@ -1,0 +1,12 @@
+{
+    "name": "mononlabs/php-form-validation",
+    "description": "A framework agnostic PHP form validator. ",
+    "authors": [
+        {
+            "name": "Joshua Sampia",
+            "homepage": "https://www.joshuasampia.com"
+        }
+    ],
+    "license": "GNU GENERAL PUBLIC LICENSE Version 2",
+    "homepage": "https://www.mononlabs.com/"
+}
